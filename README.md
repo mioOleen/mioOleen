@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **React.js and Vanilla JavaScript**,
 - 💬 Ask me about JavaScript and front-end tech stacks**
 
-- 📫 How to reach me **zintheintdev@gmail.com**
+- 📫 How to reach me **zintheint228@gmail.com**
 
 - ⚡ Fun fact **JavaScript is cute**
 
